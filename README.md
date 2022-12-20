@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Run experiments
 
-Use `experiments.ipynb` to produce experiments results. Must work in Google Colab.
+Use `experiments.ipynb` to produce experiments results. Works in Google Colab.
 
 ### Results summary
 
